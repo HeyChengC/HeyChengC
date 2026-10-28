@@ -15,6 +15,7 @@
 | [wallstreet-explainer](https://github.com/HeyChengC/wallstreet-explainer) | 华尔街式财经、科技解读短片。真实素材加数据可视化，克制，有质感。 |
 | [bighead-collage](https://github.com/HeyChengC/bighead-collage) | 大头拼贴人物短片。给选题和文案，出一条 9:16 竖屏人物故事。 |
 | [vibe-editing-guide](https://github.com/HeyChengC/vibe-editing-guide) | Vibe 剪辑入门。用一张嘴指挥 AI 剪片，指令可以直接复制。 |
+| [ai-cleaner](https://github.com/HeyChengC/ai-cleaner) | AI清理工。把电脑整理成适合用 AI 写代码的样子，Windows 和 Mac 都能用。 |
 
 ## 联系
 
