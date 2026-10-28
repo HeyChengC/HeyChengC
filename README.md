@@ -19,7 +19,3 @@
 ## 联系
 
 微信号 Yangdavee，备注来意。
-
-## 友情链接
-
-https://linux.do/
